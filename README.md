@@ -37,3 +37,5 @@ npm run dev
 ```
 
 ## 📸 Preview
+
+![preview](preview.png)
