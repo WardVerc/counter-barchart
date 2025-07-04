@@ -30,7 +30,7 @@ An practice React app for tracking activity counts using colorful buttons and a 
 Clone the repo and run the development server:
 
 ```
-git clone <repo-url>
+git clone https://github.com/WardVerc/counter-barchart
 cd counter-barchart
 npm install
 npm run dev
