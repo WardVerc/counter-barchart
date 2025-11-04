@@ -1,6 +1,6 @@
 # 🧮 Counter BarChart
 
-A practice React app for tracking activity counts using colorful buttons and a live-updating bar chart. Each button represents an activity with a unique emoji and color, and the state is persisted using localStorage, so data is preserved on page reloads.
+A 1 hour - practice React webapp for tracking activity counts using colorful buttons and a live-updating bar chart. Each button represents an activity with a unique emoji and color, and the state is persisted using localStorage, so data is preserved on page reloads.
 
 ## 🔥 Features
 
